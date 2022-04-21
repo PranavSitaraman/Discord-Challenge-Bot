@@ -6,16 +6,13 @@
     complete      mark a challenge complete for user
     delete        delete an existing challenge
     incomplete    undo completed challenge for user
-
 ### Points:
     give          give points to a user
     take          take points from a user
-
 ### View:
     challenges    view available challenges
     details       view details of a challenge
     leaderboard   view the current leaderboard
-
 ### Basics:
     help          Shows this message
     ready         Join the challenges!
