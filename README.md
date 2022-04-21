@@ -1,5 +1,6 @@
 # Discord Challenge Bot
 ## A Discord Challenge Bot for your social circles!
+## https://discord.com/api/oauth2/authorize?client_id=966485023496765440&permissions=8&scope=bot
 
 ### Challenges:
     add           Add a new challenge
