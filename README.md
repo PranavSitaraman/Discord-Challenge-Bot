@@ -2,17 +2,17 @@
 ## A Discord Challenge Bot for your social circles!
 
 ### Challenges:
-    add           add a new challenge
-    complete      mark a challenge complete for user
-    delete        delete an existing challenge
-    incomplete    undo completed challenge for user
+    add           Add a new challenge
+    complete      Mark a challenge complete for user
+    delete        Delete an existing challenge
+    incomplete    Undo completed challenge for user
 ### Points:
-    give          give points to a user
-    take          take points from a user
+    give          Give points to a user
+    take          Take points from a user
 ### View:
-    challenges    view available challenges
-    details       view details of a challenge
-    leaderboard   view the current leaderboard
+    challenges    View available challenges
+    details       View details of a challenge
+    leaderboard   View the current leaderboard
 ### Basics:
     help          Shows this message
     ready         Join the challenges!
